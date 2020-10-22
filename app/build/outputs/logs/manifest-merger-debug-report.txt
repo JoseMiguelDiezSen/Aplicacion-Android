@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:12:5-55:19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Jose\.android\build-cache\01e93b1f283ff3fb0308395c84e5d85bb104a400\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Jose\.android\build-cache\1661aa0ba39c8b246a8779064c06c05c624165ce\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Jose\.android\build-cache\9e618581f2e173cd93a9ab825bd29b307fcfba1d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Jose\.android\build-cache\a192679ca28dabf10ffcf23887f774ba875aa5a4\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Jose\.android\build-cache\4c60efef52435e1cc022452d072666ba6697b2ef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jose\.android\build-cache\534f8033314501a0acbf93766b284124588f4eff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jose\.android\build-cache\d6d029267510bc46566b311ee999a3a897708d1b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jose\.android\build-cache\de0069586693bf1af7d25b8b22f1fb0d776d77ef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Jose\.android\build-cache\f3499c6a7cd7dba8af2c10f2615ee3eab77e5080\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jose\.android\build-cache\12c07052a8ac170d6d1c43e72ac7a66984b86a69\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jose\.android\build-cache\dc6ef0d4df6fca242006196bdf9b86f147173d1c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jose\.android\build-cache\5a0483b6dd1a48e69fb01966766bcb46f5f10e54\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jose\.android\build-cache\b77790f9187105508a36c2f6a27afbd07d482db3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jose\.android\build-cache\0c14aed90b74bf91cd8ad9ae7ffa52cf1ccc6d3d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jose\.android\build-cache\f656b5efa93ffd4de7f3addcf9b68cbdaf787ea3\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:15:9-35
+	android:supportsRtl
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:30:9-32:71
+	android:value
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:32:13-68
+	android:name
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:31:13-58
+activity#com.example.jose.gps30.MapsActivity
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:37:42-88
+	android:theme
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:37:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.jose.gps30.Legend
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:46:13-40
+	android:configChanges
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:47:36-82
+	android:name
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:47:13-35
+activity#com.example.jose.gps30.ListMarkers
+ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:51:13-43
+	android:configChanges
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:52:41-87
+	android:name
+		ADDED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml:52:13-40
+uses-sdk
+INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Jose\.android\build-cache\01e93b1f283ff3fb0308395c84e5d85bb104a400\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Jose\.android\build-cache\1661aa0ba39c8b246a8779064c06c05c624165ce\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Jose\.android\build-cache\9e618581f2e173cd93a9ab825bd29b307fcfba1d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Jose\.android\build-cache\a192679ca28dabf10ffcf23887f774ba875aa5a4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Jose\.android\build-cache\4c60efef52435e1cc022452d072666ba6697b2ef\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jose\.android\build-cache\534f8033314501a0acbf93766b284124588f4eff\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jose\.android\build-cache\d6d029267510bc46566b311ee999a3a897708d1b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jose\.android\build-cache\de0069586693bf1af7d25b8b22f1fb0d776d77ef\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Jose\.android\build-cache\bb102770ee340eadb35f7095bae21762079ac408\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Jose\.android\build-cache\f3499c6a7cd7dba8af2c10f2615ee3eab77e5080\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jose\.android\build-cache\12c07052a8ac170d6d1c43e72ac7a66984b86a69\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jose\.android\build-cache\dc6ef0d4df6fca242006196bdf9b86f147173d1c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jose\.android\build-cache\5a0483b6dd1a48e69fb01966766bcb46f5f10e54\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jose\.android\build-cache\b77790f9187105508a36c2f6a27afbd07d482db3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jose\.android\build-cache\0c14aed90b74bf91cd8ad9ae7ffa52cf1ccc6d3d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jose\.android\build-cache\f656b5efa93ffd4de7f3addcf9b68cbdaf787ea3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Jose\.android\build-cache\4c60efef52435e1cc022452d072666ba6697b2ef\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jose\Documents\AndroidStudioProjects\GPS3.0\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Jose\.android\build-cache\2f2a50669444c65d15fd2d4dafe5d04535cc0465\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Jose\.android\build-cache\1661aa0ba39c8b246a8779064c06c05c624165ce\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Jose\.android\build-cache\1661aa0ba39c8b246a8779064c06c05c624165ce\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Jose\.android\build-cache\1661aa0ba39c8b246a8779064c06c05c624165ce\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Jose\.android\build-cache\1661aa0ba39c8b246a8779064c06c05c624165ce\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Jose\.android\build-cache\a192679ca28dabf10ffcf23887f774ba875aa5a4\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Jose\.android\build-cache\a192679ca28dabf10ffcf23887f774ba875aa5a4\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Jose\.android\build-cache\a192679ca28dabf10ffcf23887f774ba875aa5a4\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Jose\.android\build-cache\4c60efef52435e1cc022452d072666ba6697b2ef\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jose\.android\build-cache\534f8033314501a0acbf93766b284124588f4eff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jose\.android\build-cache\d6d029267510bc46566b311ee999a3a897708d1b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jose\.android\build-cache\de0069586693bf1af7d25b8b22f1fb0d776d77ef\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Jose\.android\build-cache\bb102770ee340eadb35f7095bae21762079ac408\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Jose\.android\build-cache\f3499c6a7cd7dba8af2c10f2615ee3eab77e5080\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jose\.android\build-cache\12c07052a8ac170d6d1c43e72ac7a66984b86a69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jose\.android\build-cache\dc6ef0d4df6fca242006196bdf9b86f147173d1c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jose\.android\build-cache\5a0483b6dd1a48e69fb01966766bcb46f5f10e54\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jose\.android\build-cache\b77790f9187105508a36c2f6a27afbd07d482db3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jose\.android\build-cache\0c14aed90b74bf91cd8ad9ae7ffa52cf1ccc6d3d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jose\.android\build-cache\f656b5efa93ffd4de7f3addcf9b68cbdaf787ea3\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Jose\.android\build-cache\4c60efef52435e1cc022452d072666ba6697b2ef\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Jose\.android\build-cache\4c60efef52435e1cc022452d072666ba6697b2ef\output\AndroidManifest.xml:26:9-47

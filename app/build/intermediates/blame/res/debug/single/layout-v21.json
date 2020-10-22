@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Jose\\.android\\build-cache\\534f8033314501a0acbf93766b284124588f4eff\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Jose\\.android\\build-cache\\534f8033314501a0acbf93766b284124588f4eff\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\jose\\.android\\build-cache\\35c2feb7891f8c6bb011d899e355b83a6614abd2\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Jose\\.android\\build-cache\\534f8033314501a0acbf93766b284124588f4eff\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\jose\\.android\\build-cache\\35c2feb7891f8c6bb011d899e355b83a6614abd2\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\jose\\.android\\build-cache\\05eed4292d41fac9349a2c05af342677db5b8200\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\jose\\.android\\build-cache\\35c2feb7891f8c6bb011d899e355b83a6614abd2\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Jose\\.android\\build-cache\\534f8033314501a0acbf93766b284124588f4eff\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\jose\\.android\\build-cache\\35c2feb7891f8c6bb011d899e355b83a6614abd2\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\Documents\\AndroidStudioProjects\\GPS3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Jose\\.android\\build-cache\\01e93b1f283ff3fb0308395c84e5d85bb104a400\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

@@ -1,0 +1,75 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    //GoogleMaps
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MapsActivity" />
+
+
+    //StreetView
+    <LinearLayout
+        android:id="@+id/layoutStreet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <fragment
+        android:name="com.google.android.gms.maps.StreetViewPanoramaFragment"
+        android:id="@+id/streetviewpanorama"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="405dp"/>
+
+</LinearLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/cajon"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="60dp"
+        android:elevation="10dp"
+        android:background="@drawable/white_border">
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/ic_magnify"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/ic_lupa"/>
+
+    <EditText
+        android:inputType="text"
+        android:maxLines="1"
+        android:id="@+id/textoCaja"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/ic_magnify"
+        android:layout_centerVertical="true"
+        android:textSize="15sp"
+        android:textColor="#8a8585"
+        android:background="@null"
+        android:hint="Introduce una direccion..."
+        />
+
+
+
+</RelativeLayout>
+</RelativeLayout>
+
+
+
+

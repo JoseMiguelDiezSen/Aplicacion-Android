@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/ic_return_arrow"
+        android:title="retornar"
+        app:showAsAction="always"
+
+        />
+
+    <item
+        android:id="@+id/action_settings1"
+        android:orderInCategory="0"
+        android:title="Modo noche"
+        android:checkable="true"
+        android:checked="false"/>
+
+    <item
+        android:id="@+id/action_settings2"
+        android:orderInCategory="1"
+        android:title="Configuracion" />
+
+    <item
+        android:id="@+id/action_settings3"
+        android:title="Salir"
+        android:orderInCategory="3"/>
+
+    <item
+        android:id="@+id/nombre"
+        android:title="texto"
+        android:numericShortcut="@string/app_name"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/compartir"
+        android:icon="@drawable/ic_share"
+        android:title="Compartir..."
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/search"
+        android:title="buscar"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        android:actionViewClass="android.widget.SearchView" />
+</menu>

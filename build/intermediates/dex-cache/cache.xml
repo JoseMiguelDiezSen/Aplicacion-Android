@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jose\Documents\AndroidStudioProjects\GPS3.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="412701092e33ede54b186bc1214bb4f19c597e89">
+        <dex dex="C:\Users\jose\Documents\AndroidStudioProjects\GPS3.0\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b84c254510e3e94f856ebb49db7d081188adb9bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jose\Documents\AndroidStudioProjects\GPS3.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\jose\Documents\AndroidStudioProjects\GPS3.0\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a4308b4cace7ad51d2149ea0f98460d23241612a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jose\Documents\AndroidStudioProjects\GPS3.0\app\libs\commons-logging-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\jose\Documents\AndroidStudioProjects\GPS3.0\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_8618fef867daa398e89fc1a4a750e5f2339e1ee6\classes.dex" />
+    </item>
+
+</items>
